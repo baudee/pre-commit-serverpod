@@ -1,0 +1,7 @@
+- id: pre-commit-serverpod
+  name: Serverpod pre-commit
+  description: This hook formats Dart code, runs analyzer and tests.
+  entry: ./pre-commit.sh
+  language: script
+  exclude: ^.*\/generated\/.*$
+  files: \.dart$
