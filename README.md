@@ -1,5 +1,5 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![version](https://img.shields.io/github/v/tag/baudee/pre-commit-serverpod?label=version)
+![version](https://img.shields.io/github/v/tag/baudee/pre-commit-serverpod)
 
 # Serverpod pre-commit hook
 A [pre-commit](http://pre-commit.com/) hook to follow the dart style guide.
